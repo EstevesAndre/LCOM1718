@@ -1,2 +1,7 @@
 # LCOM1718
-LCOM - Computer Labs - 2º Year
+
+FEUP - MIEIC 
+LCOM - Computer Labs - 2º Year / 1º Semester
+
+AVOID IT 
+Done with Bruno Sousa ./Rekicho
