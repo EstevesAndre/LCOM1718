@@ -1,0 +1,28 @@
+service kbc_cmdr
+{
+
+	system
+		DEVIO
+		IRQCTL
+		IOPENABLE
+		;
+	ipc
+		SYSTEM
+		rs
+		vm
+		pm
+		vfs
+		;
+	io
+		40:4
+		60
+		64
+		;
+	irq
+		0	# TIMER 0 IRQ
+		1	# KBD IRQ
+		;
+	uid	0
+		;
+};
+

@@ -1,0 +1,23 @@
+service lab2
+{
+        system
+                DEVIO
+                IRQCTL
+                ;
+        ipc
+                SYSTEM
+                rs
+                vm
+                pm
+                vfs
+                ;
+        io
+                40:4      # i8254 ports
+                61        # port for speaker control
+                ;               
+        irq
+                0         # TIMER 0 IRQ 
+                ;       
+        uid     0               
+                ;
+};
