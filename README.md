@@ -8,9 +8,7 @@ LCOM - Computer Labs
 
 ## AVOID IT 
 
-* Done with Bruno Sousa
-
-* [Rekicho](https://github.com/Rekicho)
+* Done with Bruno Sousa - [Rekicho](https://github.com/Rekicho)
 
 ### Screenshots
 
