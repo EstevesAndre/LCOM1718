@@ -12,3 +12,5 @@ LCOM - Computer Labs
 
 ### Screenshots
 
+####Main Menu
+![alt text](https://github.com/FagoThipster/LCOM1718/blob/master/proj/inGamePhotos/MainMenu.jpg)
