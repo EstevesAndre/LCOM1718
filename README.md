@@ -6,6 +6,13 @@ LCOM - Computer Labs
 
 2º Year 1º Semester
 
+* Lab 2 - Grade: 91/100 
+* Lab 3 - Grade: 89/100 
+* Lab 4 - Grade: 97/100 
+* Lab 5 - Grade: 86/100 
+* Project's Grade: 16.5
+* Final Grade: 18
+
 ## AVOID IT 
 
 * Done with Bruno Sousa - [Rekicho](https://github.com/Rekicho)
