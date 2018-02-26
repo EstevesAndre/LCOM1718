@@ -11,7 +11,7 @@ LCOM - Computer Labs
 * Lab 4 - Grade: 97/100 
 * Lab 5 - Grade: 86/100 
 * Project's Grade: 16.5
-* Final Grade: 18
+#### Final Grade: 18
 
 ## AVOID IT 
 
